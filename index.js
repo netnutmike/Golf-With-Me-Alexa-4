@@ -78,7 +78,7 @@ const languageStrings = {
         translation: {
             RECIPES: recipes.RECIPE_EN_GB,
             SKILL_NAME: 'British Minecraft Helper',
-            WELCOME_MESSAGE: "Welcome to %s. You can ask a question such as, what\'s the recipe for a chest? ... Now, what can I help you with?",
+            WELCOME_MESSAGE: "Welcome to %s. You can say things like find golfers, schedule a group event, is there anything I might be interested in.  Now, what can I help you with?",
             WELCOME_REPROMT: 'For instructions on what you can say, please say help me.',
             DISPLAY_CARD_TITLE: '%s  - Recipe for %s.',
             HELP_MESSAGE: "You can ask questions such as, what\'s the recipe, or, you can say exit...Now, what can I help you with?",
